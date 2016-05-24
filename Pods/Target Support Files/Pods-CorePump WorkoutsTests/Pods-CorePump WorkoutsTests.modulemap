@@ -1,0 +1,6 @@
+framework module Pods_CorePump_WorkoutsTests {
+  umbrella header "Pods-CorePump WorkoutsTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

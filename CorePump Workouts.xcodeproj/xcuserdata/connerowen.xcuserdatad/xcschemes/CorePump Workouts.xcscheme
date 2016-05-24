@@ -15,7 +15,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "85DF8FED1CEFB68100DBCF0B"
-               BuildableName = "CorePump Workouts.app"
+               BuildableName = "CorePump.app"
                BlueprintName = "CorePump Workouts"
                ReferencedContainer = "container:CorePump Workouts.xcodeproj">
             </BuildableReference>
@@ -53,7 +53,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "85DF8FED1CEFB68100DBCF0B"
-            BuildableName = "CorePump Workouts.app"
+            BuildableName = "CorePump.app"
             BlueprintName = "CorePump Workouts"
             ReferencedContainer = "container:CorePump Workouts.xcodeproj">
          </BuildableReference>
@@ -76,7 +76,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "85DF8FED1CEFB68100DBCF0B"
-            BuildableName = "CorePump Workouts.app"
+            BuildableName = "CorePump.app"
             BlueprintName = "CorePump Workouts"
             ReferencedContainer = "container:CorePump Workouts.xcodeproj">
          </BuildableReference>
@@ -95,7 +95,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "85DF8FED1CEFB68100DBCF0B"
-            BuildableName = "CorePump Workouts.app"
+            BuildableName = "CorePump.app"
             BlueprintName = "CorePump Workouts"
             ReferencedContainer = "container:CorePump Workouts.xcodeproj">
          </BuildableReference>
