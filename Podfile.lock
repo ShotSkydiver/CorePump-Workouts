@@ -1,26 +1,66 @@
 PODS:
-  - CBZSplashView (1.0.0)
-  - FlatUIKit (1.6.2)
-  - HTPressableButton (1.3.3):
-    - HTPressableButton/All (= 1.3.3)
-  - HTPressableButton/All (1.3.3)
-  - Material (1.41.2)
-  - Onboard (2.2.0)
+  - APAvatarImageView (1.1.0)
+  - AYVibrantButton (1.0.4)
+  - Bolts (1.7.0):
+    - Bolts/AppLinks (= 1.7.0)
+    - Bolts/Tasks (= 1.7.0)
+  - Bolts/AppLinks (1.7.0):
+    - Bolts/Tasks
+  - Bolts/Tasks (1.7.0)
+  - FBSDKCoreKit (4.12.0):
+    - Bolts (~> 1.7)
+  - FBSDKLoginKit (4.12.0):
+    - FBSDKCoreKit
+  - GBVersionTracking (1.3.2)
+  - JDAvatarProgress (1.0.4)
+  - KVNProgress (2.2.4)
+  - LongShadow (1.0.0)
+  - MCMHeaderAnimated (0.1.0)
+  - MZAppearance (1.1.6)
+  - MZFormSheetPresentationController (2.4.0):
+    - MZAppearance
+  - Parse (1.13.0):
+    - Bolts/Tasks (~> 1.6)
+  - ParseFacebookUtilsV4 (1.11.1):
+    - Bolts/Tasks (>= 1.6)
+    - FBSDKCoreKit (~> 4.10)
+    - FBSDKLoginKit (~> 4.10)
+    - FBSDKTVOSKit (~> 4.10)
+    - Parse (~> 1.12)
+  - ParseUI (1.2.0):
+    - Bolts/Tasks (~> 1.3)
+    - Parse (~> 1.9)
 
 DEPENDENCIES:
-  - CBZSplashView (~> 1.0.0)
-  - FlatUIKit
-  - HTPressableButton
-  - Material (~> 1.41)
-  - Onboard
+  - APAvatarImageView
+  - AYVibrantButton
+  - GBVersionTracking
+  - JDAvatarProgress
+  - KVNProgress
+  - LongShadow
+  - MCMHeaderAnimated
+  - MZFormSheetPresentationController
+  - Parse
+  - ParseFacebookUtilsV4
+  - ParseUI
 
 SPEC CHECKSUMS:
-  CBZSplashView: 9ce4cba22024476ff4a97d6433e7347da6376016
-  FlatUIKit: 1b41f0d4952ce8d970d8479ce79df54a960242c4
-  HTPressableButton: 3109ba7972247ddbd387c8a22b0341b02369b31e
-  Material: a695183e071df1136b6c386e482c6e4182649e26
-  Onboard: c46261255c0bcbe26ab2823782764c96fca7a33e
+  APAvatarImageView: 428dbd0631a150fe876f90bfd7eaa275a19b9209
+  AYVibrantButton: ca0138e754e886d92e3c71c58dd16cc392c780b8
+  Bolts: a0058fa3b331c5a1e4402d534f2dae36dbff31e4
+  FBSDKCoreKit: 6e56d5a2a64a755ad4efb5dbeee8f82fb1b99775
+  FBSDKLoginKit: 03f68a8d48c2c8bb81d7eb8097973d483543e1f6
+  GBVersionTracking: c9b5eb256a234e01b5b44731fda86a3488760c49
+  JDAvatarProgress: f6d5ea6b74fefd93258755ec52f466ba00b5da1a
+  KVNProgress: 541edcea5a1fef592aceac8d791a410d38cb499d
+  LongShadow: 18cec0b5c8c75c644db18d57a20dacc8df2a2ff5
+  MCMHeaderAnimated: eae2bd981f3d57b35c64a202f288afb441900a9c
+  MZAppearance: 0c06d3fa9cc55142f1da14bc8631fbe8fd6e19d5
+  MZFormSheetPresentationController: 3b9b6d76adc9f81c2defd0bb59e0f3dc2431e41e
+  Parse: f51c24d2feb412e4b2d6cc73d37cb24e8d0089bc
+  ParseFacebookUtilsV4: 2f30c2b7021c8005d3042781da7ef87d06589421
+  ParseUI: af2eba584799da4a9fbdac0e178662d7438b502e
 
-PODFILE CHECKSUM: 5831346110c7cb33dbbb6c7a98ded94942e18d67
+PODFILE CHECKSUM: a77590d58493ada889f3db2c0d572526a22811c7
 
-COCOAPODS: 1.0.0
+COCOAPODS: 1.0.1

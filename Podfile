@@ -2,15 +2,23 @@
 platform :ios, '9.0'
 
 target 'CorePump Workouts' do
-  # Uncomment this line if you're using Swift or would like to use dynamic frameworks
-  use_frameworks!
+    # Uncomment this line if you're using Swift or would like to use dynamic frameworks
+    use_frameworks!
+    
+    # Pods for CorePump Workouts
+    pod 'Parse'
+    pod 'ParseUI'
+    pod 'ParseFacebookUtilsV4'
+    pod 'GBVersionTracking'
+    pod 'MZFormSheetPresentationController'
+    pod 'APAvatarImageView'
+    pod 'AYVibrantButton'
+    pod 'KVNProgress'
+    pod 'JDAvatarProgress'
+    pod 'MCMHeaderAnimated'
+    #pod 'MaterialCardView', '~> 0.0.2'
+    pod 'LongShadow'
 
-  # Pods for CorePump Workouts
-  pod 'FlatUIKit'
-  pod 'CBZSplashView', '~> 1.0.0'
-  pod 'HTPressableButton'
-  pod 'Onboard'
-  pod 'Material', '~> 1.41'
 
   target 'CorePump WorkoutsTests' do
     inherit! :search_paths

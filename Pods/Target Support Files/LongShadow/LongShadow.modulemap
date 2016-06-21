@@ -1,0 +1,6 @@
+framework module LongShadow {
+  umbrella header "LongShadow-umbrella.h"
+
+  export *
+  module * { export * }
+}

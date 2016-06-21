@@ -9,18 +9,13 @@
 #import "FirstViewController.h"
 #import <AVFoundation/AVFoundation.h>
 #import <AVKit/AVKit.h>
-#import <FlatUIKit/FUIButton.h>
-#import <FlatUIKit/FUISwitch.h>
-#import <FlatUIKit/UIColor+FlatUI.h>
-#import <FlatUIKit/UIFont+FlatUI.h>
-#import <FlatUIKit/FUIAlertView.h>
-#import <FlatUIKit/UIPopoverController+FlatUI.h>
-#import <Material/ImageCardView.swift>
+#import <MZFormSheetPresentationController/MZFormSheetPresentationViewController.h>
+@import Material;
 
 @interface FirstViewController ()
 
 @property (weak, nonatomic) IBOutlet ImageCardView *firstCardView;
-
+@property (weak, nonatomic) IBOutlet CardView *textCard;
 
 @end
 
@@ -53,6 +48,33 @@
     [roundedRectButton setTitle:@"THE BASICS" forState:UIControlStateNormal];
     [self.view addSubview:roundedRectButton];
      */
+    
+    self.firstCardView.divider = true;
+    self.firstCardView.maxImageHeight = 130;
+    self.firstCardView.image = [UIImage imageNamed:@"MaterialDesign"];
+    
+    self.firstCardView.titleLabel.text = @"Material Design";
+    self.firstCardView.titleLabel.textColor = [UIColor whiteColor];
+    //self.firstCardView.titleLabel.font = [UIFont flatFontOfSize:24];
+    //self.firstCardView.titleLabelInset.top = 80;
+    
+    UILabel *detailLabel;
+    detailLabel.text = @"This is a test of the detail label";
+    detailLabel.numberOfLines = 1;
+    self.firstCardView.contentView = detailLabel;
+    
+    //cardView.pulseColor = MaterialColor.blueGrey.base
+    //cardView.depth = .Depth1
+    //view.addSubview(cardView)
+    
+    //CGFloat width = [self.view.bounds.size.width];
+    //CGRect frame = CGRectMake(16, 100, (self.view.bounds.size.width - 32), 152);
+    //MaterialPulseView *cardView = [[MaterialPulseView alloc] initWithFrame:frame];
+    //cardView.pulseColor = [UIColor blueColor];
+    //[ca]
+    
+    
+    
     
     
 }

@@ -8,10 +8,12 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UITabBarController
+
+@interface ViewController : UITabBarController 
 
 
-
+- (void)removeLoginTab;
+- (void)removeUserpageTab;
 
 @end
 

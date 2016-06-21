@@ -4,37 +4,77 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>CBZSplashView.xcscheme</key>
+		<key>APAvatarImageView.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
 		</dict>
-		<key>FlatUIKit.xcscheme</key>
+		<key>AYVibrantButton.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
 		</dict>
-		<key>HTPressableButton.xcscheme</key>
+		<key>Bolts.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
 		</dict>
-		<key>Material-io.cosmicmind.material.fonts.xcscheme</key>
+		<key>FBSDKCoreKit.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
 		</dict>
-		<key>Material-io.cosmicmind.material.icons.xcscheme</key>
+		<key>FBSDKLoginKit.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
 		</dict>
-		<key>Material.xcscheme</key>
+		<key>GBVersionTracking.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
 		</dict>
-		<key>Onboard.xcscheme</key>
+		<key>JDAvatarProgress.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>KVNProgress.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>LongShadow.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>MCMHeaderAnimated.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>MZAppearance.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>MZFormSheetPresentationController.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Parse.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>ParseFacebookUtilsV4.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>ParseUI.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
@@ -57,42 +97,72 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
+		<key>0186EE20AB4D310515B8041966DB7AEB</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>0EB19C1377A747F81110D44E2D5FCF78</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>11F461C854EE8CA9733568EDAAAF50BF</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>26E943D3B5A6D57153764B56FCEAC82B</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>2C8AA1BAF35413BDB954A1DF93576ED1</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
 		<key>47174FF4B38D9824162CAF8D7C565F26</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>4F5E891BB114FD7D0CEE62EA8B4D0AF4</key>
+		<key>52D82BFDD1E808D9CB257431922C1EE4</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>5CF139B7D6298D56C0BB5770372D711F</key>
+		<key>67D263E0B84D5C40E33EA6741EE8875A</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>631B1EA3C03E72AAD56EA9E2C44F80FC</key>
+		<key>6EDC37F3FA92533C6AC3562458AA91F1</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>6F20E324D863E55247117AA1745DDAEC</key>
+		<key>7335F7B9B51C2D809237A7DB2D5DA1EE</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>7FEF77C304F58B4306F448A2D383D419</key>
+		<key>8978C7FB7007A28B676AB1EA004C3923</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>AD0892BE565CA9D5A839B9137561277C</key>
+		<key>9C21158A7B41D923AD9278EC173670D3</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>C4FF14EC9E7A04BDF05B4CFE1F7D8F79</key>
+		<key>B74FE83602F8C39DA6273E35A3CFDF55</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>C47D6D92E850302BCBE626D677196449</key>
 		<dict>
 			<key>primary</key>
 			<true/>
@@ -102,7 +172,17 @@
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>D7FF48F3092783E4E42B336F0DEF2D1A</key>
+		<key>CC4E1A58CDE895F263495F787F6D0A43</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>E1F78B1C5F8F2CCD0E68552EAF2B9B52</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>FFABAFE9408FF95CFC8B3C3770D56837</key>
 		<dict>
 			<key>primary</key>
 			<true/>

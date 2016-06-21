@@ -1,0 +1,6 @@
+framework module MCMHeaderAnimated {
+  umbrella header "MCMHeaderAnimated-umbrella.h"
+
+  export *
+  module * { export * }
+}
