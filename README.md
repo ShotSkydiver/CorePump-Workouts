@@ -2,6 +2,9 @@
 
 This is an app that I worked on for a client back in my Breakpoint, LLC freelance web design business days. Was launched in the App Store and was intended to be the companion app for the CorePump workout equipment.
 
+#### Original App Store Description
+> Welcome to CorePump® Mobile. Whether you've just bought a brand new CorePump® machine, or are just looking to access the full potential of your existing machine, CorePump® Mobile will give you the tools you need to become a pro. You'll be able to access dozens of official workout videos guided by certified CorePump® trainers, and if you sign in with your CorePump® account, you'll gain access to even more content. Continue your journey to a better body using the simplest workout machine the world has ever seen, and the most comprehensive companion app designed for a fitness machine.
+
 
 
 ### App Store Screenshots
